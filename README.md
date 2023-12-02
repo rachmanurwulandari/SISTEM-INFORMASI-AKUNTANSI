@@ -33,4 +33,7 @@ Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan 
 
 ## Flowchart Penggunaan Aplikasi Mbah Jiwo
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/8e7df166-fc76-4ea8-9503-f03bb5699735)
+## ERD
+![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/407e8ab2-9a2f-499b-8844-f3ded58a09a5)
+
 
