@@ -28,4 +28,5 @@ Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan 
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/9c76d3c3-66ef-443d-b41f-1d08d328cffd)
 
 ## Flowchart Structure phpMyAdmin
+![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/8e7df166-fc76-4ea8-9503-f03bb5699735)
 
