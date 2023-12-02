@@ -1,8 +1,11 @@
 ![Screenshot (1068)](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/bd65ece3-775f-41a5-ab4f-2fd8fb97e60b)
 # TUGAS SISTEM INFORMASI AKUNTANSI #
 •	NAMA  : RACHMA NUR WULANDARI
+
 •	NIM   : 12030122120003
+
 •	KELAS : SISTEM AKUNTANSI (A)
+
 •	DOSEN : DR. TOTOK DEWAYANTO, SE., MSI., AKT.
 # MBAH JIWO #
 Aplikasi Manajemen Toko Berbasis Web adalah sebuah sistem yang membantu pemilik toko untuk mengelola toko mereka secara lebih efektif dan efisien. Aplikasi ini dapat membantu pemilik toko untuk:
