@@ -14,7 +14,7 @@ Aplikasi Manajemen Toko Berbasis Web adalah sebuah sistem yang membantu pemilik 
 - Mengatur keuangan dengan lebih terkendali, sehingga dapat menghindari pengeluaran yang tidak perlu.
 Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan kinerja toko dan meningkatkan keuntungan bisnis.
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/7dec6106-31d4-45d5-b73f-bbaba1d61649)
-## Penggunaan Web
+## Penggunaan Web / Aplikasi
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/fe85acdc-be80-4f18-b468-332c58504565)
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/cd7c5e28-4c25-4649-9a1e-559d5b1465db)
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/f09a124f-8133-4c97-89c6-0d29d13cc139)
@@ -31,6 +31,6 @@ Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan 
 ## Designer phpMyAdmin
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/9c76d3c3-66ef-443d-b41f-1d08d328cffd)
 
-## Flowchart Structure phpMyAdmin
+## Flowchart Penggunaan Aplikasi Mbah Jiwo
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/8e7df166-fc76-4ea8-9503-f03bb5699735)
 
