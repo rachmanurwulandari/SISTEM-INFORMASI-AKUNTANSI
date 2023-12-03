@@ -7,6 +7,7 @@
 •	KELAS : SISTEM AKUNTANSI (A)
 
 •	DOSEN : DR. TOTOK DEWAYANTO, SE., MSI., AKT.
+
 # MBAH JIWO #
 Aplikasi Manajemen Toko Berbasis Web adalah sebuah sistem yang membantu pemilik toko untuk mengelola toko mereka secara lebih efektif dan efisien. Aplikasi ini dapat membantu pemilik toko untuk:
 - Mengelola stok barang dengan lebih akurat dan tepat waktu, sehingga dapat mencegah terjadinya kehabisan stok atau kelebihan stok.
@@ -14,6 +15,7 @@ Aplikasi Manajemen Toko Berbasis Web adalah sebuah sistem yang membantu pemilik 
 - Mengatur keuangan dengan lebih terkendali, sehingga dapat menghindari pengeluaran yang tidak perlu.
 Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan kinerja toko dan meningkatkan keuntungan bisnis.
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/7dec6106-31d4-45d5-b73f-bbaba1d61649)
+
 ## PENGGUNAAN WEB / APLIKASI
 # Login
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/fe85acdc-be80-4f18-b468-332c58504565)
