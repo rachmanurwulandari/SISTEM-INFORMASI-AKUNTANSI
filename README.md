@@ -18,6 +18,7 @@ Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan 
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/fe85acdc-be80-4f18-b468-332c58504565)
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/cd7c5e28-4c25-4649-9a1e-559d5b1465db)
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/f09a124f-8133-4c97-89c6-0d29d13cc139)
+
 ## Structure phpMyAdmin
 ![Screenshot (1073)](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/cfde40c7-2b98-46a7-a244-b54ccbbac619)
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/619b6fe1-e9e0-43a0-9dbb-c0e95be51fb2)
@@ -28,11 +29,13 @@ Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan 
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/01563e30-4a12-4e31-9247-371e4ea09806)
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/78a1d175-6d12-4d26-9d58-86c722ae5fd7)
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/84cc109e-d2f2-4585-a8c3-a78fc8b4b9a0)
+
 ## Designer phpMyAdmin
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/9c76d3c3-66ef-443d-b41f-1d08d328cffd)
 
 ## Flowchart Penggunaan Aplikasi Mbah Jiwo
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/8e7df166-fc76-4ea8-9503-f03bb5699735)
+
 ## ERD
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/407e8ab2-9a2f-499b-8844-f3ded58a09a5)
 
