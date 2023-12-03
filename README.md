@@ -14,12 +14,15 @@ Aplikasi Manajemen Toko Berbasis Web adalah sebuah sistem yang membantu pemilik 
 - Mengatur keuangan dengan lebih terkendali, sehingga dapat menghindari pengeluaran yang tidak perlu.
 Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan kinerja toko dan meningkatkan keuntungan bisnis.
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/7dec6106-31d4-45d5-b73f-bbaba1d61649)
-## Penggunaan Web / Aplikasi
+## PENGGUNAAN WEB / APLIKASI
+# Login
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/fe85acdc-be80-4f18-b468-332c58504565)
+# INVENTORY
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/cd7c5e28-4c25-4649-9a1e-559d5b1465db)
+# FINANCE
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/f09a124f-8133-4c97-89c6-0d29d13cc139)
 
-## Structure phpMyAdmin
+## STRUCTURE phpMyAdmin
 ![Screenshot (1073)](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/cfde40c7-2b98-46a7-a244-b54ccbbac619)
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/619b6fe1-e9e0-43a0-9dbb-c0e95be51fb2)
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/0ba88283-18de-4400-b494-a45e9d20e96c)
@@ -30,10 +33,10 @@ Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan 
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/78a1d175-6d12-4d26-9d58-86c722ae5fd7)
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/84cc109e-d2f2-4585-a8c3-a78fc8b4b9a0)
 
-## Designer phpMyAdmin
+## DESIGNER phpMyAdmin
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/9c76d3c3-66ef-443d-b41f-1d08d328cffd)
 
-## Flowchart Penggunaan Aplikasi Mbah Jiwo
+## FLOWCHART APLIKASI MBAH JIWO
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/8e7df166-fc76-4ea8-9503-f03bb5699735)
 
 ## ERD
