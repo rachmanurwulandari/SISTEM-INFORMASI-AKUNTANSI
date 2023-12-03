@@ -17,9 +17,9 @@ Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan 
 ## PENGGUNAAN WEB / APLIKASI
 # Login
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/fe85acdc-be80-4f18-b468-332c58504565)
-# INVENTORY
+# Inventory
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/cd7c5e28-4c25-4649-9a1e-559d5b1465db)
-# FINANCE
+# Finance
 ![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/f09a124f-8133-4c97-89c6-0d29d13cc139)
 
 ## STRUCTURE phpMyAdmin
