@@ -7,13 +7,13 @@
   <tr><td>Mata Kuliah</td><td>Sistem Informasi Akuntansi</td></tr>
   <tr><td>Dosen</td><td>Dr. Totok Dewayanto, SE., M.Si, Ak, CA</td></tr>
 </table>
-# MBAH  JIWO #
+
+# MBAH JIWO #
 Aplikasi Manajemen Toko Berbasis Web adalah sebuah sistem yang membantu pemilik toko untuk mengelola toko mereka secara lebih efektif dan efisien. Aplikasi ini dapat membantu pemilik toko untuk:
 - Mengelola stok barang dengan lebih akurat dan tepat waktu, sehingga dapat mencegah terjadinya kehabisan stok atau kelebihan stok.
 - Melacak penjualan dengan lebih detail, sehingga dapat mengetahui produk apa saja yang paling laris dan produk apa saja yang perlu dipromosikan.
 - Mengatur keuangan dengan lebih terkendali, sehingga dapat menghindari pengeluaran yang tidak perlu.
 Secara keseluruhan, aplikasi ini dapat membantu pemilik toko untuk meningkatkan kinerja toko dan meningkatkan keuntungan bisnis.
-![image](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/7dec6106-31d4-45d5-b73f-bbaba1d61649)
 
 ## PENGGUNAAN WEB / APLIKASI
 # Login
