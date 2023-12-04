@@ -1,5 +1,6 @@
 ![Screenshot (1068)](https://github.com/rachmanurwulandari/SISTEM-INFORMASI-AKUNTANSI/assets/152131726/bd65ece3-775f-41a5-ab4f-2fd8fb97e60b)
 # TUGAS SISTEM INFORMASI AKUNTANSI #
+<p>(Sumber: <a href="https://github.com/farisfaikar/mbah-jiwo.git">Klik Disini</a>)</p>
 
 <table align="center">
   <tr><td>Nama</td><td>Rachma Nur Wulandari</td></tr> 
